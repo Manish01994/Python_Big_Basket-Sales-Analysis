@@ -1,12 +1,13 @@
-![BigBasket Sales Analysis](https://www.bigbasket.com/media/uploads/p/l/40181153_6-bigbasket-diwali-brochure.jpg)
+![BigBasket Sales Analysis](https://www.code-brew.com/wp-content/uploads/2018/05/SUCCESS-STORY-1.png)
+
 BigBasket Sales Analysis
-Overview
+Overview:
 This project presents an in-depth sales analysis for BigBasket, focusing on key insights into product performance, sales trends, and customer preferences. The analysis aims to identify opportunities for optimizing sales, improving product portfolios, and enhancing overall business strategies.
 
-Objective
+Objective:
 The primary goal is to analyze top-selling and underperforming products, evaluate pricing strategies, and suggest actionable recommendations to improve sales and customer satisfaction.
 
-Dataset Description
+Dataset Description:
 The dataset includes 27,555 rows and 10 columns with the following key attributes:
 
 Product Details: Name, category, sub-category, and brand.
@@ -44,7 +45,7 @@ Sales are heavily skewed toward lower-priced items, typical in retail environmen
 Category Insights:
 
 Uneven product distribution among categories suggests differences in demand and market size.
-Recommendations
+Recommendations:
 Focus on Top Performers:
 
 Invest in marketing and promotions for top-selling products to sustain growth.
@@ -65,9 +66,9 @@ Python Libraries: Pandas, NumPy, Matplotlib, Seaborn, Plotly.
 Data Analysis Tools: Statistical analysis, EDA, and visualization.
 Methodologies: Outlier detection, missing value handling, and categorical analysis.
 
-Project Insights
+Project Insights:
 The analysis provides actionable insights for improving sales strategies, managing inventory effectively, and enhancing customer satisfaction. With a mix of data-driven recommendations, this project showcases how analytics can help drive business success.
 
-Acknowledgments
+Acknowledgments:
 This project was submitted by Manish Sharma and supervised by Neeraj Sharma. Special thanks to BigBasket for providing the dataset and supporting this analysis.
 
